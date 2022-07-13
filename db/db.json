@@ -1,0 +1,44 @@
+{
+  "jogadores": [
+    {
+      "nome": "a",
+      "anoNascimento": "b",
+      "posicaoJogo": "c",
+      "timeId": 1,
+      "id": 1
+    },
+    {
+      "nome": "Eu",
+      "anoNascimento": "2005",
+      "posicaoJogo": "Gamer",
+      "timeId": 2,
+      "id": 2
+    },
+    {
+      "timeId": 2,
+      "id": 3
+    },
+    {
+      "timeId": 4,
+      "id": 4
+    }
+  ],
+  "times": [
+    {
+      "nome": "Ação",
+      "id": 1
+    },
+    {
+      "nome": "Teste",
+      "id": 2
+    },
+    {
+      "nome": "Aventura",
+      "id": 3
+    },
+    {
+      "nome": "Drama",
+      "id": 4
+    }
+  ]
+}

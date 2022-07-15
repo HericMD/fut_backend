@@ -1,12 +1,5 @@
 {
   "jogadores": [
-    {
-      "anoNascimento": "asd",
-      "nome": "qwe",
-      "posicaoJogo": "zxc",
-      "timeId": 2,
-      "id": 1
-    }
   ],
   "times": [
     {

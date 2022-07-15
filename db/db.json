@@ -1,44 +1,31 @@
 {
   "jogadores": [
     {
-      "nome": "a",
-      "anoNascimento": "b",
-      "posicaoJogo": "c",
-      "timeId": 1,
+      "anoNascimento": "asd",
+      "nome": "qwe",
+      "posicaoJogo": "zxc",
+      "timeId": 2,
       "id": 1
-    },
-    {
-      "nome": "Eu",
-      "anoNascimento": "2005",
-      "posicaoJogo": "Gamer",
-      "timeId": 2,
-      "id": 2
-    },
-    {
-      "timeId": 2,
-      "id": 3
-    },
-    {
-      "timeId": 4,
-      "id": 4
     }
   ],
   "times": [
     {
-      "nome": "Ação",
+      "nome": "Jec c c",
       "id": 1
     },
     {
-      "nome": "Teste",
+      "nome": "vasco co co co ",
       "id": 2
     },
     {
-      "nome": "Aventura",
+      "nome": "Flamengo go go go",
       "id": 3
     },
     {
-      "nome": "Drama",
       "id": 4
+    },
+    {
+      "id": 5
     }
   ]
 }
